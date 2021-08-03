@@ -86,7 +86,7 @@ namespace program
             //__________________________________________________________________________________________________________
 
             Console.WriteLine("-----------------------------------------------------------------------------------------\n");
-            Console.WriteLine("TESTANDO AQUÁTICO COM BALEIRA\n");
+            Console.WriteLine("TESTANDO TERRESTRE COM ELEFANTE\n");
             IAnimal elefante3 = new Elefante(Sexo.FEMININO);
                 
             Console.WriteLine($"SEXO elefante1: {elefante1.Sexo}");
